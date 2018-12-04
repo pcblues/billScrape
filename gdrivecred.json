@@ -1,0 +1,7 @@
+{"installed":{"client_id":"770283656685-on1mjil6j65hvot4cdkvs78qc3i6doml.apps.googleusercontent.com",
+    "project_id":"billscrape-1542263242092",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://www.googleapis.com/oauth2/v3/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"",
+    "redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
